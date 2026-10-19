@@ -35,6 +35,11 @@ Unanswered question + ticket option -------> Microsoft Dataverse
 - **Azure AI Search:** Stores searchable document chunks and vectors for retrieval.
 - **Google Gemini:** Generates embeddings and answers grounded in retrieved context.
 - **Microsoft Dataverse:** Stores tickets and supporting metadata, including document information, categories, and routing rules.
+# Sample UI
+[power canvas UI](power_canvas_app_basic_ui.png)
+
+# Power Automate Workflow
+[Workflow](power_automater_flow.png)
 
 ## How it works
 
