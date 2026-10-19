@@ -1,4 +1,6 @@
+"""commented one is creating index for 768 dimension for google gemini, You can use mistral embeddings which are 1024 dimensions, so created a new index for mistral embeddings"""
 
+"""this is purely for creating index in azure search, you can run this file directly to create the index, it will read the local.settings.json file and create the index in azure search or you can directly go this in azure portal and create the index manually, but make sure to use the same fields as defined in this file"""
 # import os
 
 # from azure.core.credentials import AzureKeyCredential
